@@ -1,0 +1,11 @@
+{
+  "GOOGLE_CRED": "",
+  "PROJECT_ID": "",
+  "LANGUAGE_CODE": "en",
+  "HEADERS": {
+    "Content-Type": "",
+    "Authorization": "",
+    "nep-organization": "",
+    "nep-enterprise-unit": ""
+  }
+}

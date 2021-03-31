@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2c3fe8a.chunk.css",
+    "main.js": "/static/js/main.646bf2b3.chunk.js",
+    "main.js.map": "/static/js/main.646bf2b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c07df45b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c07df45b.js.map",
+    "static/css/2.46538dfa.chunk.css": "/static/css/2.46538dfa.chunk.css",
+    "static/js/2.c9eecb40.chunk.js": "/static/js/2.c9eecb40.chunk.js",
+    "static/js/2.c9eecb40.chunk.js.map": "/static/js/2.c9eecb40.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a0c29f569d8e6de67fd0e8a351b517fc.js": "/precache-manifest.a0c29f569d8e6de67fd0e8a351b517fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.46538dfa.chunk.css.map": "/static/css/2.46538dfa.chunk.css.map",
+    "static/css/main.e2c3fe8a.chunk.css.map": "/static/css/main.e2c3fe8a.chunk.css.map",
+    "static/media/americano.jpg": "/static/media/americano.9d436e7b.jpg",
+    "static/media/bagel.jpg": "/static/media/bagel.397620d8.jpg",
+    "static/media/blacktea.jpg": "/static/media/blacktea.cb3a21bc.jpg",
+    "static/media/breakfast.png": "/static/media/breakfast.c9ee2dc8.png",
+    "static/media/brownie.jpg": "/static/media/brownie.f3e0b0b9.jpg",
+    "static/media/cakepop.jpg": "/static/media/cakepop.87cfed2a.jpg",
+    "static/media/cappuccino.jpg": "/static/media/cappuccino.746a294c.jpg",
+    "static/media/chat-icon.svg": "/static/media/chat-icon.e0d2b748.svg",
+    "static/media/coffee.jpg": "/static/media/coffee.b8cd1566.jpg",
+    "static/media/cookie.jpg": "/static/media/cookie.23ed5409.jpg",
+    "static/media/croissant.jpg": "/static/media/croissant.1bcada7a.jpg",
+    "static/media/greentea.jpg": "/static/media/greentea.aac543b8.jpg",
+    "static/media/jasminetea.jpg": "/static/media/jasminetea.54ea401e.jpg",
+    "static/media/logo-no-bg.svg": "/static/media/logo-no-bg.7718b3e3.svg",
+    "static/media/mocha.jpg": "/static/media/mocha.c73f3a24.jpg",
+    "static/media/muffin.jpg": "/static/media/muffin.78b1fd0f.jpg",
+    "static/media/notification.mp3": "/static/media/notification.0d062b33.mp3",
+    "static/media/sweets.png": "/static/media/sweets.169bb601.png",
+    "static/media/tea.png": "/static/media/tea.ed893853.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c07df45b.js",
+    "static/css/2.46538dfa.chunk.css",
+    "static/js/2.c9eecb40.chunk.js",
+    "static/css/main.e2c3fe8a.chunk.css",
+    "static/js/main.646bf2b3.chunk.js"
+  ]
+}
